@@ -1,5 +1,5 @@
 # UART_digital_clock
-UART digital clock using inturrupt &amp; timer for University class project(Computer System Design)
+UART digital clock using inturrupt & timer @ [COSE321 | Computer System Design]
 
 ## contents
 This clock includes
